@@ -1,0 +1,64 @@
+{
+  "REX-BCF65AC1-DA7D5A25": {
+    "plan": "monthly",
+    "owner": "",
+    "expires": "2026-12-04T13:34:13.039629",
+    "created": "2026-11-04T13:34:13.039673",
+    "active": true,
+    "device": "nZvNYE3chO1aZl0CTOTZdephEu64N0vD",
+    "device_locked_at": "2026-11-09T05:15:36.544591",
+    "last_login": "2026-11-09T05:15:36.544591",
+    "last_ip": "127.0.0.1",
+    "last_ua": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/156.0.0.0 Mobile Safari/537.36",
+    "login_count": 2,
+    "history": [
+      {
+        "at": "2026-11-07T23:18:48.854506",
+        "ip": "127.0.0.1"
+      },
+      {
+        "at": "2026-11-09T05:15:36.544591",
+        "ip": "127.0.0.1"
+      }
+    ]
+  },
+  "REX-A18DA49A-619B4C04": {
+    "plan": "monthly",
+    "owner": "",
+    "expires": "2027-01-10T13:43:54.625227",
+    "created": "2026-11-04T13:43:54.625303",
+    "active": true,
+    "device": "PHYUnF8ildBdz1sw3jAkMeQcwmkzKavH",
+    "device_locked_at": "2026-11-09T05:14:48.922772",
+    "last_login": "2026-11-09T05:14:48.922772",
+    "last_ip": "78.179.173.44",
+    "last_ua": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.7 Mobile/15E148 Safari/604.1",
+    "login_count": 6,
+    "history": [
+      {
+        "at": "2026-11-04T13:44:16.596293",
+        "ip": "127.0.0.1"
+      },
+      {
+        "at": "2026-11-06T16:39:46.656568",
+        "ip": "127.0.0.1"
+      },
+      {
+        "at": "2026-11-06T16:46:44.612745",
+        "ip": "151.135.189.42"
+      },
+      {
+        "at": "2026-11-09T04:43:38.412153",
+        "ip": "78.179.173.44"
+      },
+      {
+        "at": "2026-11-09T05:05:13.889168",
+        "ip": "78.179.173.44"
+      },
+      {
+        "at": "2026-11-09T05:14:48.922772",
+        "ip": "78.179.173.44"
+      }
+    ]
+  }
+}
